@@ -4,6 +4,7 @@ date: 2021-07-14
 author : "Feb"
 description : "THERE IS NO CLOUD, It's Just Someone Else's Computer. *Or is it?*"
 cover : "images/2021-07-14-cloud-computing/2021-07-14-cloud-computing_1.jpg"
+toc : true
 ---
 
 
