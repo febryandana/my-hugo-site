@@ -31,7 +31,7 @@ Model Private Cloud lebih mirip seperti On-Premise. Ketika menggunakan model Pri
 
 Hybrid Cloud adalah gabungan dari Public Cloud dan Private Cloud. Pendekatan seperti ini dapat digunakan untuk banyak situasi seperti aturan yang mengharuskan adanya data yang disimpan di data center lokal, penggunaan fungsi backup, atau untuk meningkatkan keamanan dengan menyimpan data penting dan rahasia di data center on-premise sementara aplikasinya diletakkan di public cloud untuk menjangkau pengguna secara cepat.
 
-![cloud deployment](/static/images/2021-07-14-cloud-computing/2021-07-14-cloud-computing_2.png)
+![cloud deployment](/posts/images/2021-07-14-cloud-computing/2021-07-14-cloud-computing_2.png)
 
 Selain dari model penerapannya, cloud computing juga dapat dibagi dari model arsitektur atau layanannya, yaitu Iaas, Paas, dan SaaS.
 
@@ -51,7 +51,7 @@ Selain 3 di atas ada pula model arsitektur lain seperti **Database as a Service*
 
 Di bawah ini adalah visualisasi perbandingan antara On-Premise, IaaS, PaaS, dan SaaS dari segi manajemennya:
 
-![cloud comparation](/static/images/2021-07-14-cloud-computing/2021-07-14-cloud-computing_3.png)
+![cloud comparation](/posts/images/2021-07-14-cloud-computing/2021-07-14-cloud-computing_3.png)
 
 * * *
 
