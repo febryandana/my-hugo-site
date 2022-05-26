@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feb&#39;s Space</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Feb&#39;s Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 May 2022 17:09:18 +0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Thu, 26 May 2022 17:09:18 +0700</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &#34;Hello, friend?&#34;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Halo, Apa Kabar? #   Hello, how are you?
+ My name is Febryandana. Born in one of the smallest city in Indonesia: Kota Mojokerto. I love learning computer stuff. But I&amp;rsquo;m such a generalist that didn&amp;rsquo;t master only one thing. I like to learning whatever pick my interest. Infrastructure engineering, network, cloud, DevOps, etc.
+In this digital era, I realize that everything would need computerization and internet. And I want to be a part of it, to be someone useful.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Personal #  My name is Moch. Febryandana Nurfahri.
+I am a modest person who always focus on getting maximum results in any activities. I like to learn new things about computer and cloud technology. I believe that whoever does something persistently will succeed.
+Experiences #    Capture the Flag - House of Technology 4.0 (October 2021 - November 2021)
+As a lead cloud engineer, I supervised my team to manage cloud infrastructures to host CTF platform and challenges for national-scale event with more than 80 participants.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
