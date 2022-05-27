@@ -4,6 +4,7 @@ date: 2021-07-30
 author : "Feb"
 description : "Kita bisa mengakses Ubuntu server yang ada di cloud seperti AWS, GCP, DigitalOcean, dll dengan menggunakan GUI daripada melalui SSH seperti yang biasa digunakan."
 toc : true
+tags : ['cloud', 'management', 'server']
 ---
 
 Kita bisa mengakses Ubuntu server yang ada di cloud seperti AWS, GCP, DigitalOcean, dll dengan menggunakan GUI daripada melalui SSH seperti yang biasa digunakan. Manfaatnya? Tidak begitu banyak. Justru cenderung lebih banyak kekurangan yang perlu diperhatikan seperti tambahan beban kerja yang tidak diperlukan, tambahan aplikasi-aplikasi yang mungkin akan jarang dipakai, dan beban jaringan yang lebih berat karena harus mengirim lebih banyak data.

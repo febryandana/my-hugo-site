@@ -5,6 +5,7 @@ author : "Feb"
 cover : "/posts/images/2021-08-18-membuat-ec2-instance-di-aws/image_1.png"
 description : " "
 toc : true
+tags : ['aws', 'cloud', 'server']
 ---
 
 ***AWS Elastic Compute Cloud*** (**EC2**) adalah salah satu service dari [Amazon Web Service](https://aws.amazon.com) yang paling populer digunakan. **EC2** adalah service yang menawarkan komponen *cloud computing* seperti *virtual machine* yang Amazon sebut sebagai ***Instance*** yang memiliki banyak pilihan spesifikasi, ***Amazon Machine Image*** (**AMI**) yang merupakan kumpulan OS image yang dapat dipasang untuk *Instance*, ***Elastic IP*** yang merupakan IPv4 Public statis cocok digunakan untuk DNS record, ***Amazon Elastic Block Store*** (**Amazon EBS**) sebagai *persistent storage*, dan lain-lain yang bisa dilihat sendiri [disini](https://docs.aws.amazon.com/ec2/index.html).
