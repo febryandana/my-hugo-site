@@ -1,6 +1,7 @@
 ---
 title: "Kelola Server Lewat Website Dengan Cockpit"
 date: 2021-08-20
+author : "Feb"
 description : "Tools ini bertujuan untuk memudahkan *sysadmin* mengelola sistem linux mereka tanpa ribet dengan urusan SSH key, salah ketik perintah, atau untuk mengurus banyak server sekaligus tanpa perlu berpindah-pindah terminal SSH."
 tags : ['cloud', 'management', 'server']
 ---
