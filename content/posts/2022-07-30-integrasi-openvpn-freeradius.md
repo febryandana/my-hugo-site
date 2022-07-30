@@ -167,11 +167,11 @@ Default User & Password:
 User = administrator  
 Password = radius
 
-![daloradius login page](/posts/images/2022-07-30/daloradius-login.png)
+![daloradius login page](/posts/images/2022-07-30-integrasi-openvpn-freeradius/daloradius-login.png)
 
-![daloradius homepage](/posts/images/2022-07-30/daloradius-homepage.png)
+![daloradius homepage](/posts/images/2022-07-30-integrasi-openvpn-freeradius/daloradius-homepage.png)
 
-![radtest](/posts/images/2022-07-30/radtest-radius.png)
+![radtest](/posts/images/2022-07-30-integrasi-openvpn-freeradius/radtest-radius.png)
 
 ## 2. Instalasi OpenVPN
 
@@ -307,7 +307,7 @@ verb 3
 openvpn --config client.ovpn
 ```
 
-![ovpn-radius test](/posts/images/2022-07-30/ovpn-radius.png)
+![ovpn-radius test](/posts/images/2022-07-30-integrasi-openvpn-freeradius/ovpn-radius.png)
 
 > Dilakukan di komputer pribadi
 
@@ -315,11 +315,11 @@ openvpn --config client.ovpn
 sudo openvpn --config client.ovpn
 ```
 
-![ovpn-radius pc cli](/posts/images/2022-07-30/ovpn-pc-cli.png)
+![ovpn-radius pc cli](/posts/images/2022-07-30-integrasi-openvpn-freeradius/ovpn-pc-cli.png)
 
-![ovpn-radius pc gui 1](/posts/images/2022-07-30/ovpn-pc-gui-1.png)
+![ovpn-radius pc gui 1](/posts/images/2022-07-30-integrasi-openvpn-freeradius/ovpn-pc-gui-1.png)
 
-![ovpn-radius pc gui 2](/posts/images/2022-07-30/ovpn-pc-gui-2.png)
+![ovpn-radius pc gui 2](/posts/images/2022-07-30-integrasi-openvpn-freeradius/ovpn-pc-gui-2.png)
 
 ## Known Issues
 
