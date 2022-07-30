@@ -1,0 +1,18 @@
+.logo__cursor {
+  -webkit-animation: cursor 1s infinite;
+  animation: cursor 1s infinite;
+  background: #28a0eb;
+  border-radius: 1px;
+  display: inline-block;
+  height: 1rem;
+  margin-left: 5px;
+  width: 10px;
+}
+
+.framed {
+  padding: 20px;
+  border-radius: 20px;
+  border: 1px solid #dcdcdc;
+  border: 1px solid var(--border-color);
+  max-width: 800px;
+}
